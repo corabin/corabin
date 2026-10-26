@@ -31,48 +31,18 @@ Agents, brokers, small developers and property managers often run their whole bu
 ## What we build
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-
-**Property listing pages**
-Clean, browsable pages that put photos and key details first.
-
-    </td>
-    <td width="50%" valign="top">
-
-**Lead capture and enquiry forms**
-Simple forms that send enquiries straight to you.
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-**Contact and WhatsApp links**
-One tap to call, message or book a viewing.
-
-    </td>
-    <td width="50%" valign="top">
-
-**Mobile-first layouts**
-Designed for the phone first, since that is where most buyers will open it.
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-**Basic SEO setup**
-Proper titles, descriptions and structure so people can find you on Google.
-
-    </td>
-    <td width="50%" valign="top">
-
-**Fast, maintainable code**
-Built on Next.js and deployed on Vercel, so it loads quickly and is easy to update.
-
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top"><h4>🏠 Property listing pages</h4>Clean, browsable pages that put photos and key details first.</td>
+<td width="50%" valign="top"><h4>📩 Lead capture and enquiry forms</h4>Simple forms that send enquiries straight to you.</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><h4>💬 Contact and WhatsApp links</h4>One tap to call, message or book a viewing.</td>
+<td width="50%" valign="top"><h4>📱 Mobile-first layouts</h4>Designed for the phone first, since that is where most buyers will open it.</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><h4>🔍 Basic SEO setup</h4>Proper titles, descriptions and structure so people can find you on Google.</td>
+<td width="50%" valign="top"><h4>⚡ Fast, maintainable code</h4>Built on Next.js and deployed on Vercel, so it loads quickly and is easy to update.</td>
+</tr>
 </table>
 
 <sub>Features are scoped per project.</sub>
@@ -157,11 +127,13 @@ If you are in real estate and need a website, or want a better one, send a short
 <div align="center">
 
 <a href="https://linkedin.com/company/corabin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/corabin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://x.com/CorabinStudio"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://instagram.com/corabinagency"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://facebook.com/61594918605124/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 <a href="https://reddit.com/user/CorabinHQ/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
-<a href="https://discord.gg/prUmeKj7E"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://discord.gg/prUmeKj7E"><img src="https://img.shields.io/badge/Discord_Invite-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord invite" /></a>
+<a href="https://discord.com/channels/1307206610384326716"><img src="https://img.shields.io/badge/Discord_Channel-4752C4?style=for-the-badge&logo=discord&logoColor=white" alt="Discord channel" /></a>
 <a href="https://www.quora.com/profile/Corabin"><img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" alt="Quora" /></a>
 
 </div>
